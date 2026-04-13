@@ -1,0 +1,81 @@
+# ============================================
+# Visual Studio + C/C++ Project
+# ============================================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+Build/
+build/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Oo]ut/
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.pdb
+*.idb
+*.obj
+*.o
+*.json
+
+# Visual Studio cache and user settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Logs and temporary files
+*.log
+*.tlog
+*.lastbuildstate
+*.cache
+*.tmp
+
+# Backup / autosave files
+*~
+*.bak
+*.old
+*.orig
+
+# Other IDE / tools
+.ipch/
+*.VC.db
+*.VC.VC.opendb
+*.vscode/
+*.idea/
+*.clangd/
+
+# Premake / CMake / Make build folders
+premake5.lua
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Misc
+*.db
+*.opendb
+*.pyc
+__pycache__/
+*.cfg.bak
+*.dat
+*.DS_Store
+Thumbs.db
+*.ilk
+*.recipe
+*.exp
+*.ipdb
+*.iobj
+
+
